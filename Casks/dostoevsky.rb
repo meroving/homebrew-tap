@@ -1,6 +1,6 @@
 cask "dostoevsky" do
-  version "1.0.1"
-  sha256 "f1491bc422507a7d4f9ca13277299fce31afd3db70c9cabde22a00620e73f211"
+  version "1.0.2"
+  sha256 "5d6b30b38a874619c7eadc883ee30195586bd6fed5e7ed072f25662a2b2f5933"
 
   url "https://github.com/meroving/dostoevsky/releases/download/v#{version}/Dostoevsky-#{version}.dmg"
   name "Dostoevsky"
